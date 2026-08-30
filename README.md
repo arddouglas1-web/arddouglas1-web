@@ -5,7 +5,8 @@
 - Contato: ard.douglas1@gmail.com
 
 📫 Como me encontrar:
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-thebadge&logo=gmail&logoColor=white)](mailto:ard.douglas1@gmail.com) [![Facebook](https://shields.io)](https://facebook.com/douglas.deoliveiraarruda)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-thebadge&logo=gmail&logoColor=white)](mailto:ard.douglas1@gmail.com) 
+[![Facebook](https://img.shields.io/badge/Facebook-blue)](https://www.facebook.com/douglas.deoliveiraarruda?locale=pt_BR)
 
 
 <!--

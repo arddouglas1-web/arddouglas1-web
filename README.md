@@ -1,4 +1,8 @@
-## Hi there 👋
+# Olá, eu sou o Douglas Arruda!
+- Estudante de Desenvolvimento de Sistemas
+- Focado em Python, HTML e CSS
+- Preparando-se para o mercado de tecnologia
+- Contato: ard.douglas1@gmail.com
 
 <!--
 **arddouglas1-web/arddouglas1-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
